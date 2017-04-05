@@ -20,7 +20,7 @@ Enter the puzzle to solve('0' - '8' with 0 representing blank tile):
 1 2 3 4 5 6 7 8 0
 //the resulting table for that input would be 
 		1 2 3
-			4 5 6
-			7 8 *
+		4 5 6
+		7 8 *
 ```
 Then type 1 to run Uniform Cost, 2 for A* misplaced, and 3 for A* manhattan
